@@ -1,6 +1,5 @@
 # 2022-1-Clase-Repositorios
-Repositorios
-
+Repositorios de la clase de SEP
 
 # Asistencia Clase 2022-06-02
 
