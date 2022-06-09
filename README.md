@@ -12,5 +12,5 @@ Repositorios de la clase de SEP
 | ------ | -------- | ---------- | ---------------------------- |
 | Felipe | Sanchez  | 03-06-2022 | https://youtu.be/rnppzUkvngA |
 | Felipe | Sanchez  | 04-06-2022 | https://youtu.be/rnppzUkvngA |
-
+| Matias | Arellano | 09-06-2022 | https://www.youtube.com/watch?v=0ndxiaOleAY&list=RD0ndxiaOleAY&start_radio=1 |
 
