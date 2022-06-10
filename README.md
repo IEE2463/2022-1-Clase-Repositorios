@@ -16,3 +16,4 @@ Repositorios de la clase de SEP
 | Joaco  | Vásquez  | 09-06-2022 | https://www.youtube.com/watch?v=nbY_aP-alkw |
 | Gianfranco | Antonucci  | 09-06-2022 | https://www.youtube.com/watch?v=LBgLC7UPCuA |
 | Victoria | Matthews  | 09-06-2022 | https://www.youtube.com/watch?v=Yfsslx6y6gU |
+| Matias | Arellano | 09-06-2022 | https://www.youtube.com/watch?v=0ndxiaOleAY&list=RD0ndxiaOleAY&start_radio=1 |
