@@ -14,3 +14,4 @@ Repositorios de la clase de SEP
 | Felipe | Sanchez  | 04-06-2022 | https://youtu.be/rnppzUkvngA |
 | Eduardo | Garrido | 03-06-2022 | https://youtu.be/Nj-hdQMa3uA |
 | Vicente | Goehring | 08-06-2022 | https://youtu.be/R7SbP_tnqxs |
+| Joaco  | Vásquez  | 09-06-2022 | https://www.youtube.com/watch?v=nbY_aP-alkw |
