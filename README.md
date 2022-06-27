@@ -22,3 +22,4 @@ Repositorios de la clase de SEP
 | Felipe | Valenzuela  | 09-06-2022 | https://www.youtube.com/watch?v=dQw4w9WgXcQ |
 | Sebastian | Villagra | 12-06-2022 | https://youtu.be/INzcB9ek6YQ |
 | Jose | Farias  | 12-06-2022 | https://youtu.be/wOjzo02Tmck |
+| Angela | Parra | 12-06-2022 | https://www.youtube.com/watch?v=nT8KGYVurIU |
