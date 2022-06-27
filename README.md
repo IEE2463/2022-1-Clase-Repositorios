@@ -24,3 +24,4 @@ Repositorios de la clase de SEP
 | Jose | Farias  | 12-06-2022 | https://youtu.be/wOjzo02Tmck |
 | Angela | Parra | 12-06-2022 | https://www.youtube.com/watch?v=nT8KGYVurIU |
 | Francisco | Pena | 13-06-2022 | https://www.youtube.com/watch?v=4feUSTS21-8&ab_channel=chillStation |
+| Sofía | Pájaro | 13-06-2022 | https://youtu.be/ItyX8onyUsk |
