@@ -19,4 +19,5 @@ Repositorios de la clase de SEP
 | Matias | Arellano | 09-06-2022 | https://www.youtube.com/watch?v=0ndxiaOleAY&list=RD0ndxiaOleAY&start_radio=1 |
 | Felipe | Valenzuela  | 09-06-2022 | https://www.youtube.com/watch?v=dQw4w9WgXcQ |
 | Diego | Calvimontes  | 12-06-2022 | https://www.youtube.com/watch?v=Z2msA4KY6V4&list=LL&index=22 |
-| Felipe | Valenzuela  | 09-06-2022 | https://www.youtube.com/watch?v=dQw4w9WgXcQ |Sebastian | Villagra | 12-06-2022 | https://youtu.be/INzcB9ek6YQ 
+| Felipe | Valenzuela  | 09-06-2022 | https://www.youtube.com/watch?v=dQw4w9WgXcQ |
+| Sebastian | Villagra | 12-06-2022 | https://youtu.be/INzcB9ek6YQ |
