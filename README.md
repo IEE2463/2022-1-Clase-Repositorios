@@ -18,4 +18,11 @@ Repositorios de la clase de SEP
 | Victoria | Matthews  | 09-06-2022 | https://www.youtube.com/watch?v=Yfsslx6y6gU |
 | Matias | Arellano | 09-06-2022 | https://www.youtube.com/watch?v=0ndxiaOleAY&list=RD0ndxiaOleAY&start_radio=1 |
 | Felipe | Valenzuela  | 09-06-2022 | https://www.youtube.com/watch?v=dQw4w9WgXcQ |
+| Diego | Calvimontes  | 12-06-2022 | https://www.youtube.com/watch?v=Z2msA4KY6V4&list=LL&index=22 |
+| Felipe | Valenzuela  | 09-06-2022 | https://www.youtube.com/watch?v=dQw4w9WgXcQ |
+| Sebastian | Villagra | 12-06-2022 | https://youtu.be/INzcB9ek6YQ |
+| Jose | Farias  | 12-06-2022 | https://youtu.be/wOjzo02Tmck |
+| Angela | Parra | 12-06-2022 | https://www.youtube.com/watch?v=nT8KGYVurIU |
+| Francisco | Pena | 13-06-2022 | https://www.youtube.com/watch?v=4feUSTS21-8&ab_channel=chillStation |
+| Sofía | Pájaro | 13-06-2022 | https://youtu.be/ItyX8onyUsk |
 | Ricardo | Fernandez  | 09-06-2022 | https://www.youtube.com/watch?v=Nr7LD6vGxnw |
